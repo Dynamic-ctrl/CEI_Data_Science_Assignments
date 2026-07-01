@@ -23,7 +23,7 @@ def autonomous_grid_decision(predicted_load, safety_threshold=1.5):
 @app.route('/api/predict', methods=['POST'])
 def predict_demand():
     try:
-        # Get the real-time data from the request (e.g., from your React dashboard)
+        # Get the real-time data from the request 
         data = request.get_json()
         
         # Convert the incoming JSON into a DataFrame
