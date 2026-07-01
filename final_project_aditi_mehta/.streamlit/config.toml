@@ -1,0 +1,15 @@
+[theme]
+# The primary accent color for interactive elements (Electric Blue)
+primaryColor = "#0066cc"
+
+# Background color for the main content area (Dark Slate)
+backgroundColor = "#0e1117"
+
+# Background color used for the sidebar (Slightly lighter slate)
+secondaryBackgroundColor = "#262730"
+
+# Color used for almost all text
+textColor = "#fafafa"
+
+# Font family for all text in the app
+font = "sans serif"

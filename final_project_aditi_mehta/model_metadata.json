@@ -1,0 +1,1 @@
+{"model_type": "XGBRegressor", "rmse": 0.3318553496065534, "mae": 0.166900357603881, "features": ["hour", "day_of_week", "month", "is_weekend", "temperature", "energy_lag_1h", "energy_lag_24h", "energy_rolling_mean_24h"]}
